@@ -1,0 +1,15 @@
+{
+    "name": "dex",
+    "version": "0.1.0",
+    "description": "a decentralized exchange",
+    "scripts": {
+        "develop": "truffle develop",
+        "compile": "truffle compile"
+    },
+    "author": "Monsieur_Wary",
+    "license": "MIT",
+    "devDependencies": {
+        "@openzeppelin/contracts": "3.4.1",
+        "truffle": "5.2.5"
+    }
+}
